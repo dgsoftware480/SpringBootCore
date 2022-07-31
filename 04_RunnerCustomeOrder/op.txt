@@ -1,0 +1,16 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+[32m :: Spring Boot :: [39m              [2m (v2.7.2)[0;39m
+
+[2m2022-08-01 00:40:55.710[0;39m [32m INFO[0;39m [35m15356[0;39m [2m---[0;39m [2m[           main][0;39m [36mcom.example.demo.Application            [0;39m [2m:[0;39m Starting Application using Java 15.0.2 on LAPTOP-9R846ETD with PID 15356 (D:\Programming\SBMS\04_RunnerCustomeOrder\target\classes started by dhiru in D:\Programming\SBMS\04_RunnerCustomeOrder)
+[2m2022-08-01 00:40:55.714[0;39m [32m INFO[0;39m [35m15356[0;39m [2m---[0;39m [2m[           main][0;39m [36mcom.example.demo.Application            [0;39m [2m:[0;39m No active profile set, falling back to 1 default profile: "default"
+[2m2022-08-01 00:40:56.409[0;39m [32m INFO[0;39m [35m15356[0;39m [2m---[0;39m [2m[           main][0;39m [36mcom.example.demo.Application            [0;39m [2m:[0;39m Started Application in 1.148 seconds (JVM running for 2.095)
+-- Test Application Runner --
+-- Email Application Runner --
+-- Test Commad Line Runner --
+-- Email Commad Line Runner --
