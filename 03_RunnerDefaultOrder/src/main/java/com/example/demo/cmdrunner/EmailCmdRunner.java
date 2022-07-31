@@ -1,14 +1,14 @@
-package com.example.demo;
+package com.example.demo.cmdrunner;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
 @Component
-public class NotifyCommandRunner implements CommandLineRunner{
+public class EmailCmdRunner implements CommandLineRunner{
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("-- Notify Command Line Runner --");
+		System.out.println("-- Email Commad Line Runner --");
 		
 	}
 
